@@ -1,0 +1,31 @@
+GET https://striveschool-api.herokuapp.com/api/product/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjAyZGJmNWU2MDQ3YjAwMTlmYTVmZjUiLCJpYXQiOjE3MTE0NjM0MTMsImV4cCI6MTcxMjY3MzAxM30.q3iUpG1cPeuDwgyVeeRB7lDLfRdPEMQsSL7OlkO1m0E
+
+####
+
+POST https://striveschool-api.herokuapp.com/api/product/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjAyZGJmNWU2MDQ3YjAwMTlmYTVmZjUiLCJpYXQiOjE3MTE0NjM0MTMsImV4cCI6MTcxMjY3MzAxM30.q3iUpG1cPeuDwgyVeeRB7lDLfRdPEMQsSL7OlkO1m0E
+
+{
+    "name": "prova-cinque",
+    "description": "ciao",
+    "brand": "apple",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 120
+}
+
+####
+
+POST https://striveschool-api.herokuapp.com/api/product/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjAyZGJmNWU2MDQ3YjAwMTlmYTVmZjUiLCJpYXQiOjE3MTE0NjM0MTMsImV4cCI6MTcxMjY3MzAxM30.q3iUpG1cPeuDwgyVeeRB7lDLfRdPEMQsSL7OlkO1m0E
+
+{
+    "name": "prova-tre",
+    "description": "ciao",
+    "brand": "apple",
+    "imageUrl": "https://picsum.photos/200",
+    "price": 12
+}

@@ -1,0 +1,12 @@
+:root{
+    --main_color: orange;
+}
+
+.navbar{
+    background-color: var(--main_color);
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+}
